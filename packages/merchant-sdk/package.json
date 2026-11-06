@@ -1,0 +1,13 @@
+﻿{
+  "name": "@jury/merchant-sdk",
+  "version": "1.0.0",
+  "description": "Developer SDK and client library for integrating with JURY",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test src/__tests__/**/*.test.js"
+  },
+  "dependencies": {
+    "@jury/common": "*"
+  }
+}

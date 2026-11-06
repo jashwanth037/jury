@@ -1,0 +1,10 @@
+﻿{
+  "name": "@jury/observer-sdk",
+  "version": "1.0.0",
+  "description": "SDK for submitting observations to JURY Payment Detection Core",
+  "type": "module",
+  "main": "./src/index.js",
+  "dependencies": {
+    "@jury/common": "*"
+  }
+}
